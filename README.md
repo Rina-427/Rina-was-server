@@ -26,6 +26,6 @@ sudo nano /var/www/html/index.html
 
 ## Screenshots
 
-！[EC2 インスタンス](https://github.com/user-attachments/assets/6100103a-2e4a-45e2-9330-ca6f24e5208c)
+![インスタンス](https://github.com/user-attachments/assets/313a9f98-b2e0-4060-9d96-97f14aeaa704)
 ![セキュリティ](https://github.com/user-attachments/assets/0a34d2d3-7b5a-4fbc-9789-442582d5cf09)
 ![Webサイト](https://github.com/user-attachments/assets/18d74128-cfce-48ac-951b-01a02d6dd687)
