@@ -23,9 +23,9 @@ sudo nano /var/www/html/index.html
 
 ```
 
- EC2の実際の画面です。
+
 ## Screenshots
 
-[EC2 インスタンス](https://github.com/user-attachments/assets/6100103a-2e4a-45e2-9330-ca6f24e5208c)
+！[EC2 インスタンス](https://github.com/user-attachments/assets/6100103a-2e4a-45e2-9330-ca6f24e5208c)
 ![セキュリティ](https://github.com/user-attachments/assets/0a34d2d3-7b5a-4fbc-9789-442582d5cf09)
 ![Webサイト](https://github.com/user-attachments/assets/18d74128-cfce-48ac-951b-01a02d6dd687)
